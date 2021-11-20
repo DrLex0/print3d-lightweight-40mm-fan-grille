@@ -8,6 +8,9 @@
 
 ![Photo 1](thumbs/Fan40a.jpg)[🔎](images/Fan40a.jpg) ![Photo 2](thumbs/grillz1.jpg)[🔎](images/grillz1.jpg) ![Photo 3](thumbs/grillz2.jpg)[🔎](images/grillz2.jpg)
 
+
+## Description and Instructions
+
 For those who want to shave every gram off their printing head in order to fight ringing, or simply want some new stylish grilles to pimp their printer, here is a compact and low-noise replacement for the popular iron fan grilles.
 
 If you print this in ABS with no infill, no more than 2 shells, and thin extrusions, you can get this to weigh 1.20 grams or maybe even less. The iron grilles on my printer weigh 4.14 g each, so by replacing both, I can shed 5.88 g. That's not much, but every little bit helps to reduce the inertia of the printing head and the wobble when it takes sharp corners.
